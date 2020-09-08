@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dg/twitter-php": "^4.1"
+    }
+}
