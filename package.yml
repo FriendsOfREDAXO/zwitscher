@@ -1,0 +1,14 @@
+package: zwitscher
+version: '0.0.1-dev'
+author: Friends Of REDAXO
+supportpage: https://github.com/FriendsOfREDAXO/zwitscher/issues
+
+page:
+    title: 'translate:title'
+    icon: fa fa-twitter
+    perm: admin
+   
+requires:
+    redaxo: '^5.7'
+    php:
+        version: '^7.1'
