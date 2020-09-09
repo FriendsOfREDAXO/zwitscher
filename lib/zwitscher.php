@@ -1,5 +1,5 @@
 <?php
-use use DG\Twitter\Twitter;
+use DG\Twitter\Twitter;
 class zwitscher extends Twitter
 {
 }
